@@ -20,3 +20,6 @@ The dataset includes the following variables:
 
 - Ensure all required packages (`dplyr`, `ggplot2`, etc.) are installed.
 - Run `analysis.R` to perform the analysis.
+
+![image](https://github.com/ab-dul-rehman/BelgianATM1994Analysis/assets/19568885/f3e491b0-7c9b-4afc-a21e-71a19e4ffedd)
+
